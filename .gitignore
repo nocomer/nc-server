@@ -1,0 +1,8 @@
+log
+*.log
+*.apk
+local.properties
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+UserInterface.xcuserstate 
