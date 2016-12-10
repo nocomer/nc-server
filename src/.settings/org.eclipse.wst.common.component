@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="nc-server">
+    <wb-module deploy-name="2kb">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/resources"/>
-        <property name="java-output-path" value="/nc-server/WebRoot/WEB-INF/classes"/>
-        <property name="context-root" value="/nc-server"/>
+        <property name="java-output-path" value="/2kb/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="/2kb"/>
     </wb-module>
 </project-modules>
